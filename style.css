@@ -79,7 +79,7 @@
 }
 .row223 {
   background-color: #590dff;
-  width: 150px;
+  width: 200px;
   font-size: 20px;
   padding: 10px;
   border-radius: 20px;
@@ -266,7 +266,7 @@ option {
 .card {
   width: 360px;
   border-radius: 20px;
-
+ 
   margin: 35px;
   background-color: white;
 }
@@ -284,7 +284,7 @@ option {
   font-weight: bold;
 }
 .content {
-  padding: 10px;
+  padding: 20px;
   text-align: left;
 }
 .row-5 {
@@ -350,6 +350,9 @@ option {
   }
   .row-32 input {
     width: 300px;
+  }
+  .row-31{
+    text-align: center;
   }
   .leftdiv {
     display: flex;
